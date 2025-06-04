@@ -1,6 +1,6 @@
 # 🐍 Python Mastery: From Novice to Ninja
 
-Welcome to the **Python Mastery** repository—a complete journey through Python programming, designed to take you from the basics to advanced concepts. This course encompasses over 70 meticulously crafted lessons, each focusing on a specific Python topic, complete with practical examples and projects.
+Welcome to the **Python Mastery** repository—a complete journey through Python programming, designed to take you from the basics to advanced concepts. This course encompasses over 70 meticulously crafted lessons, each focusing on a specific Python topic, complete  with practical examples and projects.
 
 ---
 
